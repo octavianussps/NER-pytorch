@@ -1,3 +1,5 @@
-Embedding: Part of Speech (POS) /n
-Encoder: Bi-LSTM /n
+Embedding: Part of Speech (POS)
+
+Encoder: Bi-LSTM 
+
 Performance f1: 0.
